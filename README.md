@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Srashti 👋
+Software Consultant | [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003954?fullName=Srashti%20Jain) | [Google Developer Expert (GDE Angular)](https://angular.io/about?group=GDE)
 
-<!--
-**srashtisj/srashtisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/srashtisj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/srashtisj)
+[![twitter badge](https://img.shields.io/badge/@srashtisj-30302f?style=flat&logo=twitter)](https://twitter.com/srashtisj)
+<img src="https://komarev.com/ghpvc/?username=srashtisj&style=plastic" />
+<!--[[![Gmail Badge](https://img.shields.io/badge/abc@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:abc@gmail.com)](url)-->
 
-Here are some ideas to get you started:
+## 👯 Communities
+- Co-organizer at [AllAboutWeb](https://twitter.com/allaboutweb) (A web technology centric meetup group)
+- Co-organizer at [Indore Technical Community](https://twitter.com/indoretechcom) (A local meetup group talking coding and technologies in trend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+- Front-end development using **Angular, React**
+- Backend development using **ASP.NET Core, Node, Express**
+- Architectural design for **Relational Database Management Systems**
+- Creating scalable cloud architecture using **Microsoft Azure**
+- Project Management and CD/CI using **Azure DevOps**
+
+## &#x1f4c8; GitHub Stats
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisj&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srashtisj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Srashti's GitHub Stats" />
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srashtisj&&theme=radical&&hide_border=false&&show_icons=true"/>
