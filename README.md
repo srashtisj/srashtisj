@@ -1,5 +1,5 @@
 # Hi there, I'm Srashti 👋
-Software Consultant | [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003954?fullName=Srashti%20Jain) | [Google Developer Expert (GDE Angular)](https://angular.io/about?group=GDE)
+Founder @TechVraksh | Software Consultant | [Google Developer Expert (GDE Angular)](https://angular.io/about?group=GDE)
 
 [![linkedin badge](https://img.shields.io/badge/srashtisj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/srashtisj)
 [![twitter badge](https://img.shields.io/badge/@srashtisj-30302f?style=flat&logo=twitter)](https://twitter.com/srashtisj)
